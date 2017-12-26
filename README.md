@@ -44,7 +44,3 @@ Installation instructions:
   Please report any problems about the applicaition or its code in the issues tab of the repo.
   
   if you have an idea for a feature of the app, email me at xuser0215@gmail.com.
-  
-  if you edit any code or the storyboard file, send the .xcodeproj file to the same email.
-  
-  Lisenced with the MIT License.
