@@ -9,7 +9,7 @@ Installation instructions:
 
 1. Download BellaVita.ipa package from the master branch.
 
-2. Install cydia impactor from cydiaimpactor.com .
+2. Install cydia impactor from cydiaimpactor.com
 
 3. Open cydia impactor.
 
