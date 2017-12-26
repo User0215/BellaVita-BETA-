@@ -21,7 +21,7 @@ Installation instructions:
 5. repeat step 6 from Cydia impactor instructions
 6. open application
 ----------------------------------------------------------------------------------------------------------------
-Notes:
+# Notes:
   Neither installation process is better than the other one.
   Please don't complain about the screen size for iPhone Plus models, I know its messed up, I'll fix it later.
   Please report any problems about the applicaition or its code in the issues tab of the repo
